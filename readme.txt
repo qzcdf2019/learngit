@@ -1,3 +1,3 @@
 Git is a distributed version comtrol system.  
-Git is free CCTV
-cdf is pyhon
+Git is free software distributed under the GPL.
+cdf has amutable index called stage.
