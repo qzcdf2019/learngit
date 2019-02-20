@@ -1,0 +1,1 @@
+In Git, deletion is also a modification operation. Let's take a look at it. First, add a new file test. txt to Git and submit it it.
